@@ -2,7 +2,9 @@
 
 Marketing site for **Spotter** — a live gym form coach. Point a phone at a set, trace the bar, and get one thing to fix.
 
-Live copy of the landing page lives in `index.html`.
+**Live:** [https://sharif262.github.io/spotter-web/](https://sharif262.github.io/spotter-web/)
+
+The page is a single static `index.html`.
 
 ## Local
 
