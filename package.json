@@ -1,0 +1,9 @@
+{
+  "name": "spotter-web",
+  "private": true,
+  "description": "Spotter landing page — one set, one fix",
+  "scripts": {
+    "start": "npx --yes serve -l 4173 .",
+    "dev": "npx --yes serve -l 4173 ."
+  }
+}
